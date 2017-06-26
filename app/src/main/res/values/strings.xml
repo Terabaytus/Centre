@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Centre</string>
+    <string name="message">Загрузка файла</string>
+    <string name="message1">Файл загружен</string>
+    <string name="message2">Камера недоступна или не существует</string>
+    <string name="message3">Для правильной работы приложения, включите GPS</string>
+    <string name="message4">Данные не переданы</string>
+    <string name="message5">Лад</string>
+    <string name="message6">Не удалось установить связь с МИАЦ, попробуйте отправить позже</string>
+    <string name="photo">Фото</string>
+    <string name="video">Видео</string>
+    <string name="send">Отправить</string>
+    <string name="updatings">Пришли обновления, установите их.</string>
+    <string name="audioCommentary">Аудио коментарий</string>
+    <string name="noTags">Без отметок</string>
+    <string name="sign">Подписать</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+
+</resources>
